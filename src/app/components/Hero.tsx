@@ -1,7 +1,8 @@
-export default function Hero() {
+export default async function Hero() {
+
     return (
         <>
-            <section className=" container py-7">
+            <section className=" container my-16">
                 <h1 className="text-4xl font-bold text-center">
                     Find your next <br /> dream Job
                 </h1>

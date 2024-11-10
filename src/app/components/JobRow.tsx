@@ -10,7 +10,7 @@ export default function JobRow() {
             <div className="bg-white p-4 rounded-lg shadow-sm relative ">
 
                 <div className="absolute top-4 right-4 cursor-pointer">
-                    <FontAwesomeIcon className="size-4 text-gray-500" icon={faBookmark} />
+                    <FontAwesomeIcon className="size-4 text-gray-400" icon={faBookmark} />
                 </div>
                 <div className="flex grow gap-4">
                     <div className=" content-center">
